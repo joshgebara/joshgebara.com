@@ -1,0 +1,33 @@
+{
+  "name": "joshgebara.com",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run prettier"
+    }
+  },
+  "lint-staged": {
+    "linters": {
+      ".": ["prettier --write", "git add"]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshgebara/joshgebara.com.git"
+  },
+  "author": "Josh Gebara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshgebara/joshgebara.com/issues"
+  },
+  "homepage": "https://github.com/joshgebara/joshgebara.com#readme",
+  "devDependencies": {
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.0"
+  }
+}
