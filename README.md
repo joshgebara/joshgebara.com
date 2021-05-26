@@ -4,8 +4,6 @@
   <img src="./assets/img/backgroundWithLogo.png" alt="Josh Gebara" width="1000">
 </h1>
 
-<p align="center">My personal website: <a href="https://joshgebara.com/">joshgebara.com</a></p>
-
 <p align="center">
   <a href="#development">Development</a> •
   <a href="#deployment">Deployment</a> •
