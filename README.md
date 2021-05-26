@@ -22,9 +22,14 @@ $ npm install
 **Note:** This is a static website and does not use an npm script to run. `npm install` is used to automatically set up a pre-commit hook to format the code with [Prettier](https://prettier.io/).
 
 ## Deployment
-
 This is a static website served by [Netlify](https://www.netlify.com/). Deploys happen automatically after every commit to the `main` branch.
 
-## License
+## Domain
+The domain joshgebara.com was purchased through [Namecheap](https://www.namecheap.com/)
 
+## Email
+Email forwarding for hello@joshgebara.com is handled through [ImproveMX](https://improvmx.com/)
+
+
+## License
 [MIT License](./LICENSE)
