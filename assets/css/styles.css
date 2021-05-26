@@ -330,7 +330,7 @@ svg {
 
 .about .grid a:hover,
 .about .grid a:focus {
-  opacity: 0.75;
+  text-decoration: underline;
   transition: all 0.15s;
 }
 
@@ -418,7 +418,7 @@ svg {
 
 .footer-contact .grid .text a:hover,
 .footer-contact .grid .text a:focus {
-  opacity: 0.75;
+  text-decoration: underline;
   transition: all 0.15s;
 }
 
@@ -545,6 +545,7 @@ svg {
 .footer-links a:hover,
 .footer-links a:focus {
   color: #b8d5c9;
+  box-shadow: 0 1.5px #b8d5c9;
   transition: all 0.15s;
 }
 
@@ -627,5 +628,6 @@ svg {
 .footer-open-source a:hover,
 .footer-open-source a:focus {
   color: #b8d5c9;
+  box-shadow: 0 1.5px #b8d5c9;
   transition: all 0.15s;
 }
