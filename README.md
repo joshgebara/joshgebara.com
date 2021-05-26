@@ -25,7 +25,7 @@ $ npm install
 This is a static website served by [Netlify](https://www.netlify.com/). Deploys happen automatically after every commit to the `main` branch.
 
 ## Domain
-The domain joshgebara.com was purchased through [Namecheap](https://www.namecheap.com/)
+The domain [joshgebara.com](https://www.joshgebara.com/) was purchased through [Namecheap](https://www.namecheap.com/)
 
 ## Email
 Email forwarding for hello@joshgebara.com is handled through [ImproveMX](https://improvmx.com/)
