@@ -120,17 +120,6 @@ svg {
   color: #7a8c9f;
 }
 
-.common-Link {
-  font-weight: 600;
-  font-size: 17px;
-  letter-spacing: 0.1em;
-  line-height: 1.5;
-  text-transform: uppercase;
-  color: #7a8c9f;
-  transition: all 0.15s;
-  white-space: nowrap;
-}
-
 .card {
   background-color: #fff;
   box-shadow: 0 5px 20px -5px rgba(50, 50, 93, 0.12),
@@ -197,6 +186,14 @@ svg {
 .nav a {
   display: flex;
   align-items: center;
+  font-weight: 600;
+  font-size: 17px;
+  letter-spacing: 0.1em;
+  line-height: 1.5;
+  text-transform: uppercase;
+  color: #7a8c9f;
+  transition: all 0.15s;
+  white-space: nowrap;
 }
 
 .nav a:hover,
@@ -420,24 +417,6 @@ svg {
 .footer-contact .grid .text a:focus {
   text-decoration: underline;
   transition: all 0.15s;
-}
-
-.footer-contact .grid .text a:hover > svg,
-.footer-contact .grid .text a:focus > svg {
-  opacity: 0.75;
-  transition: all 0.15s;
-}
-
-.footer-contact .grid .text svg {
-  height: 15px;
-  width: 15px;
-}
-
-@media (min-width: 750px) {
-  .footer-contact .grid .text svg {
-    height: 20px;
-    width: 20px;
-  }
 }
 
 .footer-contact .border {
