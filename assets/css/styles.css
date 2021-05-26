@@ -542,10 +542,16 @@ svg {
   box-shadow: 0 1.5px #525f7f;
 }
 
+.footer-links .common-BodyText a:hover,
+.footer-links .common-BodyText a:focus {
+  color: #b8d5c9;
+  box-shadow: 0 1.5px #b8d5c9;
+  transition: all 0.15s;
+}
+
 .footer-links a:hover,
 .footer-links a:focus {
   color: #b8d5c9;
-  box-shadow: 0 1.5px #b8d5c9;
   transition: all 0.15s;
 }
 
