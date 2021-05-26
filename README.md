@@ -4,14 +4,6 @@
   <img src="./assets/img/backgroundWithLogo.png" alt="Josh Gebara" width="1000">
 </h1>
 
-<p align="center">
-  <a href="#development">Development</a> •
-  <a href="#deployment">Deployment</a> •
-  <a href="#license">License</a>
-</p>
-
----
-
 ## Development
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From the command line:
