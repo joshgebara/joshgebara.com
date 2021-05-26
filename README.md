@@ -1,7 +1,7 @@
 # joshgebara.com [![Netlify Status](https://api.netlify.com/api/v1/badges/9ca44667-87d0-46d2-bce6-ce71edbd181b/deploy-status)](https://app.netlify.com/sites/eager-panini-82c9c6/deploys)
 
 <h1 align="center">
-  <img src="./assets/img/backgroundWithLogo.png" alt="Josh Gebara" width="300">
+  <img src="./assets/img/backgroundWithLogo.png" alt="Josh Gebara" width="500">
 </h1>
 
 <p align="center">My personal website: <a href="https://joshgebara.com/">joshgebara.com</a></p>
