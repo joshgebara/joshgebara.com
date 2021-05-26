@@ -7,15 +7,14 @@
 <p align="center">My personal website: <a href="https://joshgebara.com/">joshgebara.com</a></p>
 
 <p align="center">
-  <a href="#getting-set-up-for-development">Getting Set Up for Development</a> •
-  <a href="#server-setup">Server Setup</a> •
-  <a href="#Deployment">Deployment</a> •
+  <a href="#development">Development</a> •
+  <a href="#deployment">Deployment</a> •
   <a href="#license">License</a>
 </p>
 
 ---
 
-## Getting Set Up for Development
+## Development
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From the command line:
 
