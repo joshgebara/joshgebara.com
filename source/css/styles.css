@@ -205,12 +205,6 @@ svg {
   transition: all 0.15s;
 }
 
-.nav a:hover > svg,
-.nav a:focus > svg {
-  fill: #b8d5c9;
-  transition: all 0.15s;
-}
-
 /* ==========================================================================
    About
    ========================================================================== */
@@ -336,12 +330,6 @@ svg {
 
 .about .grid a:hover,
 .about .grid a:focus {
-  opacity: 0.75;
-  transition: all 0.15s;
-}
-
-.about .grid a:hover > svg,
-.about .grid a:focus > svg {
   opacity: 0.75;
   transition: all 0.15s;
 }
@@ -639,11 +627,5 @@ svg {
 .footer-open-source a:hover,
 .footer-open-source a:focus {
   color: #b8d5c9;
-  transition: all 0.15s;
-}
-
-.footer-open-source a:hover > svg,
-.footer-open-source a:focus > svg {
-  fill: #b8d5c9;
   transition: all 0.15s;
 }
