@@ -36,10 +36,6 @@ $ npm install
 
 This is a static website served from [Netlify](https://www.netlify.com/). Deploys happen automatically after every merged pull request into `master`.
 
-## Branching Model 
-
-This project adopts a variation of [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html). Merges into `master` come from `develop` instead of a dedicated `release` branch. These pull requests include the version number in the description and the list of changes can be found in the [CHANGELOG.md](CHANGELOG.md). After merging, the `master` branch is tagged with the release number.
-
 ## License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
