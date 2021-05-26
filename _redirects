@@ -1,3 +1,0 @@
-# Redirects from what the browser requests to what we serve
-# See more at: https://www.netlify.com/docs/redirects/
-/    /source/index.html   200
