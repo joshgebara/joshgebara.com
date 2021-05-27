@@ -518,7 +518,7 @@ svg {
 .footer-links .common-BodyText a {
   color: #7a8c9f;
   white-space: nowrap;
-  box-shadow: 0 1.5px #525f7f;
+  box-shadow: 0 1.5px #7a8c9f;
 }
 
 .footer-links .common-BodyText a:hover,
@@ -607,7 +607,7 @@ svg {
 
 .footer-open-source a {
   color: #7a8c9f;
-  box-shadow: 0 1.5px #525f7f;
+  box-shadow: 0 1.5px #7a8c9f;
 }
 
 .footer-open-source a:hover,
