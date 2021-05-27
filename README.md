@@ -21,15 +21,15 @@ $ npm install
 
 ## Deployment [![Netlify Status](https://api.netlify.com/api/v1/badges/9ca44667-87d0-46d2-bce6-ce71edbd181b/deploy-status)](https://app.netlify.com/sites/eager-panini-82c9c6/deploys)
 
-This is a static website served by [Netlify](https://www.netlify.com/). Deploys happen automatically after every commit to the `main` branch.
+This is a static website served by [Netlify](https://www.netlify.com/). Deploys happen automatically after every push to the `main` branch.
 
 ## Domain
 
-The domain [joshgebara.com](https://www.joshgebara.com/) was purchased through [Namecheap](https://www.namecheap.com/)
+The domain [joshgebara.com](https://www.joshgebara.com/) was registered through [Namecheap](https://www.namecheap.com/).
 
 ## Email
 
-Email forwarding for hello@joshgebara.com is handled through [ImproveMX](https://improvmx.com/)
+Email forwarding for hello@joshgebara.com is handled through [ImproveMX](https://improvmx.com/).
 
 ## License
 
