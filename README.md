@@ -2,7 +2,7 @@
   <img src="./assets/img/backgroundWithLogo.png" alt="Josh Gebara" width="1000">
 </h1>
 
-## Deployment [![Netlify Status](https://api.netlify.com/api/v1/badges/9ca44667-87d0-46d2-bce6-ce71edbd181b/deploy-status)](https://app.netlify.com/sites/eager-panini-82c9c6/deploys)
+## Deployment [![Netlify Status](https://api.netlify.com/api/v1/badges/9ca44667-87d0-46d2-bce6-ce71edbd181b/deploy-status)](https://app.netlify.com/sites/joshgebara/deploys)
 
 This is a static website served by [Netlify](https://www.netlify.com/). Deploys happen automatically after every push to the `main` branch.
 
